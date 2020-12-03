@@ -1,0 +1,39 @@
+h1{
+    font-family: Helvetica sans-serif;
+    color: darkgreen;
+    padding-left: 50px;
+}
+
+p{
+    color: darkseagreen;
+    padding-left: 50px;
+}
+
+img{
+    width:auto;
+}
+
+a{
+    font-family: fantasy;
+    font-size: 50px;
+    text-decoration: none;
+    color: darkseagreen;
+    
+}
+
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: double;
+    border-color: coral;
+    
+}
+
+th{
+    font-weight: 800;
+    background-color: cornsilk;
+    color: coral;
+    padding-left: 5px;
+    padding-right: 5px;
+}
